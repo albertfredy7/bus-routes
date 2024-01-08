@@ -1,0 +1,65 @@
+{
+    "buses": [
+      {
+        "busNumber": "KLM456",
+        "startingPoint": "Thiruvananthapuram Central Bus Station",
+        "destination": "Ernakulam Junction Bus Station",
+        "departureTime": "09:30 AM",
+        "arrivalTime": "02:30 PM",
+        "stops": ["Kollam", "Alappuzha", "Kottayam"],
+        "fare": "$20.50",
+        "busCompany": "Kerala Express Bus Services",
+        "contactNumber": "+987654321",
+        "amenities": ["Air Conditioning", "Wi-Fi", "Refreshments"]
+      },
+      {
+        "busNumber": "TSR789",
+        "startingPoint": "Kozhikode Main Bus Stand",
+        "destination": "Thrissur Bus Stand",
+        "departureTime": "10:00 AM",
+        "arrivalTime": "02:45 PM",
+        "stops": ["Malappuram", "Palakkad"],
+        "fare": "$18.75",
+        "busCompany": "Malabar Travels",
+        "contactNumber": "+876543210",
+        "amenities": ["Air Conditioning", "Free Snacks", "Entertainment System"]
+      },
+      {
+        "busNumber": "AM234",
+        "startingPoint": "Alleppey Bus Station",
+        "destination": "Munnar Bus Stand",
+        "departureTime": "08:45 AM",
+        "arrivalTime": "03:30 PM",
+        "stops": ["Kottayam", "Idukki"],
+        "fare": "$25.00",
+        "busCompany": "Alleppy Hills Travel",
+        "contactNumber": "+111222333",
+        "amenities": ["Air Conditioning", "Panoramic Windows", "Snack Bar"]
+      },
+      {
+        "busNumber": "KK789",
+        "startingPoint": "Kannur Bus Terminal",
+        "destination": "Kovalam Beach Bus Stop",
+        "departureTime": "11:15 AM",
+        "arrivalTime": "06:00 PM",
+        "stops": ["Calicut", "Trivandrum"],
+        "fare": "$22.50",
+        "busCompany": "Northern Delights Tours",
+        "contactNumber": "+333444555",
+        "amenities": ["Wi-Fi", "Comfortable Seating", "Onboard Restrooms"]
+      },
+      {
+        "busNumber": "PW456",
+        "startingPoint": "Palakkad KSRTC Bus Stand",
+        "destination": "Wayanad Main Junction",
+        "departureTime": "09:00 AM",
+        "arrivalTime": "01:45 PM",
+        "stops": ["Malampuzha", "Mannarkkad"],
+        "fare": "$19.25",
+        "busCompany": "Western Ghats Express",
+        "contactNumber": "+666777888",
+        "amenities": ["Air Conditioning", "USB Charging Ports", "Snack Service"]
+      }
+    ]
+  }
+  
